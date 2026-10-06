@@ -1,0 +1,19 @@
+{
+  "wheel_id": 346,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-com-151",
+  "project": "mortgage-broker-bendigo-74916cd1bf8296d842d7f7b126103d7bc9640a0",
+  "parent_t1_ref": "bendigohomeloanbroker.com-004",
+  "node_role": "buffer",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-broker-bendigo-74916cd1bf8296d842d7f7b126103d7bc9640a0/",
+  "writeback_nonce": "a32f57109bd4055f",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/bendigohomeloanbroker.com-004/",
+      "anchor": "mortgage broker bendigo",
+      "rel": "follow"
+    }
+  ]
+}
